@@ -1,0 +1,6 @@
+Database Changes: 
+
+MODIFY - value at row: 0 (starting from zero) under column: PRICE: 9.99 was changed to: 19.99.
+MODIFY - value at row: 0 (starting from zero) under column: PRICE: 19.99 was changed to: 29.99.
+MODIFY - value at row: 0 (starting from zero) under column: PRICE: 29.99 was changed to: 3000.
+DELETED ROW - Book with ISBN: 1111111111119 and Title: test9 by: Sara Doe was removed from the table.
